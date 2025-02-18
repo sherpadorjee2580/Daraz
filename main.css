@@ -64,7 +64,6 @@ body {
   justify-content: center;
 }
 .daraz-container .daraz-nav__bottom-left .logo {
-  background-image: url("./Images/logo.png");
   height: 10rem;
   width: 100%;
   background-size: cover;
